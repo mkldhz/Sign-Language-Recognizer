@@ -1,0 +1,7 @@
+tensorflow==2.8.2
+ipython  
+matplotlib 
+six 
+opencv-python
+ttkbootstrap 
+tf-slim==1.1.0
